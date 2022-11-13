@@ -44,7 +44,7 @@ for (let i=0; i<supplyChanges.length; i++) {
         console.log (`Removed ${supplyChanges[i]*-1} parts`)
     }
 }
-    // NOTE: shifted negative value to positive value for clearer syntax. 
+    // NOTE: shifted negative value to positive value for clearer grammar. 
     // Removing -6 is just adding 6, and I did not think that was the answer 
     // you wanted in the console.log.
 
